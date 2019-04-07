@@ -96,3 +96,5 @@ venv.bak/
 # IDEA
 # User-specific stuff
 .idea/
+
+config.py
