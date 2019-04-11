@@ -1,5 +1,5 @@
-from .views import User
+from .api import Login
 
 
 def init_route(api):
-    api.add_resource(User, '/<string:user_id>')
+    api.add_resource(Login, '/login')

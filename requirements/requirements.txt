@@ -1,3 +1,4 @@
+Flask-JWT==0.3.2
 PyMySQL==0.9.3
 flask==1.0.2
 flask-restful==0.3.7
